@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming HTML and CSS.
 - 🌱 I’m currently learning Frontend.
 - 💞️ I’m looking to collaborate on programming a project in CTESP
-- 📫 How to reach me: rodrymaga06@gAmil.com
+- 📫 How to reach me: rodrymaga06@gmail.com
 - 😄 Pronouns: She/eat/me
 
 
