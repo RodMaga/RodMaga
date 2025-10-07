@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Frontend.
 - 💞️ I’m looking to collaborate on programming a project in CTESP
 - 📫 How to reach me: rodrymaga06@gmail.com
-- 😄 Pronouns: hi papy/chulo
 
 
 <!---
